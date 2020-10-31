@@ -1,3 +1,5 @@
 # Data-Collection (Web Scraping)
 
-Data analysis skills for gathering data
+Web scrapying is a free approach to improve the existing data, and this project is using international currency rates to enrich financial services data. 
+
+
